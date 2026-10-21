@@ -2,6 +2,8 @@
 
 > **Practical Engineering • Open-Source Systems • Edge & AI Innovations**
 
+![TEAU ICT BUILDERS GUILD LOGO](doc/iBug.jpeg)
+
 Welcome to the official GitHub Organization of the **TEAU ICT Builders Guild** at **The East African University**. We are a student-led engineering community focused on moving beyond theory into production code, low-level system design, embedded hardware, and AI application frameworks.
 
 ___
@@ -23,9 +25,9 @@ ___
 | **⚡ Hardware & Embedded** | Microcontrollers, PCB Design, Microgrids, Real-Time C/C++, Arduino, Telemetry, Bare-Metal Programming, Sensors, Relays | Physical hardware prototypes, sensor circuits, and low-level firmware. |
 | **☁️ Web & Mobile App Development**  | React, Next.js, Flutter, Android/iOS native, React Native, TypeScript, REST APIs |  Cross-platform mobile apps and high-performance web applications for users' pockets and browsers. |
 | **🛡️ CyberSec & Systems**  | Active Directory, Wireshark, Security Auditing, Linux Hardening, Bash/Zsh, Network Infrastructure | Network defense configurations, security auditing tools, system administration, and vulnerability assessment/management. |
-| **🔗 Cryptocurrency, Web3 & Distributed Ledgers | Solidity, Rust, Go, P2P Networks, Smart Contracts | Decentralized apps, cryptographic protocols, and smart contract security audits.
+| **🔗 Cryptocurrency, Web3 & Distributed Ledgers** | Solidity, Rust, Go, P2P Networks, Smart Contracts | Decentralized apps, cryptographic protocols, and smart contract security audits.
 | **🎮 Game Development & Graphics** | C++, Unreal Engine, Unity, WebGL, Blender, Shadar Programming | Interactive 2D/3D game loops, custom physics engines, and graphics rendering pipelines.
-| **⚡ Quantitative Finance & Algorithmic Trading Systems | Python, C++, Time-Series DBs, Custom CLI Tools, Shell Scripting | High-frequency backtesting engines, quantitative financial models, and developer productivity CLIs. |
+| **⚡ Quantitative Finance & Algorithmic Trading Systems** | Python, C++, Time-Series DBs, Custom CLI Tools, Shell Scripting | High-frequency backtesting engines, quantitative financial models, and developer productivity CLIs. |
 
 ___
 
